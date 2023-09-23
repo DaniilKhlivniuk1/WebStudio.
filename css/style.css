@@ -1,3 +1,5 @@
+
+  
   body {
     font-family: "Roboto";
   }
@@ -110,31 +112,31 @@
   .team-title {
       color: var(--texttitle-color);
       text-align: center;
-      font-size: 35px;
+      font-size: 5px;
       font-weight: 700;
-      letter-spacing: 1.1px;
+      letter-spacing: 1.08px;
   }
   
   .team-foto {
       width: 270px;
-      height: 250px;
+      height: 260px;
       flex-shrink: 0;    
   }
   
   .team-subtitle {
       color:var(--texttitle-color);
       text-align: center;
-      font-size: 15px;
+      font-size: 16px;
       font-weight: 500;
-      letter-spacing: 0.5px;    
+      letter-spacing: 0.48px;    
   }
   
   .team-text {
       color: var(--subtitle-color);
       text-align: center;
-      font-size: 5px;
+      font-size: 16px;
       font-weight: 400;
-      letter-spacing: 0.5px;    
+      letter-spacing: 0.48px;    
   }
   
   .footer {
@@ -144,56 +146,56 @@
   .footer-title {
       color: var(--accent-color);
       font-family: Raleway;
-      font-size: 25px;
+      font-size: 26px;
       font-weight: 700;
-      letter-spacing: 0.8px;    
+      letter-spacing: 0.78px;    
   }
   
   .footer-text {
       color:var(--text-color);
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 400;
-      line-height: 25px; 
-      letter-spacing: 0.45px;   
+      line-height: 24px; 
+      letter-spacing: 0.42px;   
   }
   
   .footer-link {
       color: rgba(255, 255, 255, 0.60);
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 400;
-      line-height: 25px; 
-      letter-spacing: 0.45px;   
+      line-height: 24px; 
+      letter-spacing: 0.42px;   
   }
   
   .buttons-btn {
       color:var(--texttitle-color);
       text-align: center;
-      font-size: 15px;
+      font-size: 16px;
       font-weight: 500;
-      line-height: 25px; 
-      letter-spacing: 0.5px;   
-      border-radius: 5px;
+      line-height: 26px; 
+      letter-spacing: 0.48px;   
+      border-radius: 4px;
       background:var(--secondbackground);    
   }
   
   .everyone-foto {
       width: 370px;
-      height: 300px;
+      height: 294px;
       flex-shrink: 0;   
   }
   
   .everyone-title {
       color:var(--texttitle-color);
-      font-size: 20px;
+      font-size: 18px;
       font-weight: 700;
-      line-height: 35px; 
-      letter-spacing: 1.1px;    
+      line-height: 36px; 
+      letter-spacing: 1.08px;    
   }
   
   .everyone-name {
       color: var(--subtitle-color);
-      font-size: 15px;
+      font-size: 16px;
       font-weight: 400;
       line-height: 30px; 
-      letter-spacing: 0.5px;    
+      letter-spacing: 0.48px;    
   }
