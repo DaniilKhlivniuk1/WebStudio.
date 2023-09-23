@@ -1,6 +1,4 @@
-
-  
-  body {
+    body {
     font-family: "Roboto";
   }
   
@@ -79,16 +77,16 @@
       color: var(--texttitle-color);
       font-size: 15px;
       font-weight: 700;
-      letter-spacing: 0.45px;
+      letter-spacing: 0.42px;
       text-transform: uppercase;
   }
   
   .section-text {
       color:var(--subtitle-color);
-      font-size: 15px;
+      font-size: 14px;
       font-weight: 400;
-      line-height: 25px; 
-      letter-spacing: 0.45px;
+      line-height: 24px; 
+      letter-spacing: 0.42px;
   }
   
   .todo-title {
@@ -96,12 +94,12 @@
       text-align: center;
       font-size: 36px;
       font-weight: 700;
-      letter-spacing: 1.1px;
+      letter-spacing: 1.08px;
   }
   
   .todo-foto {
       width: 370px;
-      height: 300px;
+      height: 294px;
       flex-shrink: 0;
   }
   
@@ -112,7 +110,7 @@
   .team-title {
       color: var(--texttitle-color);
       text-align: center;
-      font-size: 5px;
+      font-size: 36px;
       font-weight: 700;
       letter-spacing: 1.08px;
   }
